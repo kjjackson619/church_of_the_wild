@@ -1,0 +1,20 @@
+{
+  "name": "church_of_the_wild",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kjjackson619/church_of_the_wild.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kjjackson619/church_of_the_wild/issues"
+  },
+  "homepage": "https://github.com/kjjackson619/church_of_the_wild#readme"
+}

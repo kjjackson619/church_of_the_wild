@@ -1,0 +1,28 @@
+nav li {
+    list-style: none;
+    display: inline;
+    padding: 5px;
+}
+
+nav a {
+    text-decoration: none;
+}
+
+#search {
+    width: 50%;
+}
+
+footer {
+    position: absolute;
+    bottom: 0;
+}
+
+footer a {
+    text-decoration: none;
+}
+
+footer li {
+    list-style: none;
+    display: inline;
+    padding: 5px;
+}
