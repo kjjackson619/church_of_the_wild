@@ -4,7 +4,7 @@ accountBtn.addEventListener("click", function (e) {
     e.preventDefault();
 
     var accountModal = document.getElementById("accountModal");
-
+    accountModal.style.visibility = "visible";
     var login = document.getElementById("login");
     var check = document.getElementById("check");
     var signup = document.getElementById("signup");
@@ -26,3 +26,4 @@ accountBtn.addEventListener("click", function (e) {
     });
 
 });
+

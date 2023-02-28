@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/kjjackson619/church_of_the_wild/issues"
   },
-  "homepage": "https://github.com/kjjackson619/church_of_the_wild#readme"
+  "homepage": "https://github.com/kjjackson619/church_of_the_wild#readme",
+  "dependencies": {
+    "require": "^2.4.20"
+  }
 }
