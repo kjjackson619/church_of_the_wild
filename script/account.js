@@ -30,11 +30,5 @@ accountBtn.addEventListener("click", function (e) {
     });
 
 
-    signup.addEventListener("click", function (e) {
-        e.preventDefault();
-        var signup = document.getElementById("signup");
-
-    });
-
 });
 
